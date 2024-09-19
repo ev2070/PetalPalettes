@@ -22,7 +22,7 @@ After locking a flower, **CLICK** on it to see its color details (RGB values and
 ### Steps to Run Petal Palettes Locally
 
 1. Clone this repository in your desired directory.
-2. Open in Gamemaker Studio 2
+2. Open Gamemaker Studio 2.
 3. Select "Open Project" and navigate to the directory where the cloned repository is located.
 4. Open the `PetalPalettes.yyp` project file.
 5. Run the project by clicking the play button within GameMaker Studio 2.
