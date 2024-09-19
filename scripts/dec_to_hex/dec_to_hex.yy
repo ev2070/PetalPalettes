@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"dec_to_hex",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dec_to_hex",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
