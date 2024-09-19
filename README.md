@@ -1,6 +1,6 @@
 # PETAL PALETTES
 
-Welcome to **Petal Palettes**! An interactive experience where you can explore and create beautiful color palettes inspired by the beauty of nature.
+Welcome to **Petal Palettes**! An interactive experience, made with GameMaker Studio 2, where you can explore and create beautiful color palettes inspired by the beauty of nature.
 
 ## Instructions
 
