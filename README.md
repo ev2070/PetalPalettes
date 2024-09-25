@@ -2,6 +2,12 @@
 
 Welcome to **Petal Palettes**! An interactive experience, made with GameMaker Studio 2, where you can explore and create beautiful color palettes inspired by the beauty of nature.
 
+## Demo
+
+Check out the YouTube [demo](https://youtu.be/4BTWvUylnRo) video to see **Petal Palettes** in action!
+
+[![Petal Palettes - Demo](assets/petal-palettes.png)](https://youtu.be/4BTWvUylnRo)
+
 ## Instructions
 
 - Welcome to **PETAL PALETTES**!
@@ -40,7 +46,7 @@ Enjoy your journey through color and let your creativity bloom!
 
 ## Credits
 
-- `fnt_oshigo`: *推しゴ* by アトリエこたつ. Available at [this](https://booth.pm/ja/items/5635169) link.
+- `fnt_oshigo`: _推しゴ_ by アトリエこたつ. Available at [this](https://booth.pm/ja/items/5635169) link.
 
 ## Contact
 
