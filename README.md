@@ -4,7 +4,7 @@ Welcome to **Petal Palettes**! An interactive experience, made with GameMaker St
 
 ## Demo
 
-Check out the YouTube [demo](https://youtu.be/4BTWvUylnRo) video to see **Petal Palettes** in action!
+Check out this YouTube [demo](https://youtu.be/4BTWvUylnRo) video to see **Petal Palettes** in action!
 
 [![Petal Palettes - Demo](assets/petal-palettes.png)](https://youtu.be/4BTWvUylnRo)
 
@@ -19,20 +19,29 @@ After locking a flower, **CLICK** on it to see its color details (RGB values and
 
 ## Instructions for Local Use
 
-### Prerequisites
+### Option A: Run on GameMaker Studio 2
+
+#### Prerequisites
 
 - Install [Steam](https://store.steampowered.com/about/download) and create an active Steam account.
 - Install GameMaker Studio 2 on your machine via Steam.
 - Ensure all necessary dependencies are properly installed and configured within GameMaker Studio 2.
 
-### Steps to Run Petal Palettes Locally
+#### Steps to Run Petal Palettes Locally
 
-1. Clone this repository in your desired directory.
+1. Clone this repository to your desired directory.
 2. Open Gamemaker Studio 2.
 3. Select "Open Project" and navigate to the directory where the cloned repository is located.
 4. Open the `PetalPalettes.yyp` project file.
 5. Run the project by clicking the play button within GameMaker Studio 2.
 6. Explore and enjoy!
+
+### Option B: Run the Windows Build
+
+1. Download the `PetalPalettesWindows.zip` file.
+2. Extract the downloaded `.zip` file.
+3. Open the extracted folder and run the `PetalPalettes.exe` application.
+4. Explore and enjoy!
 
 ## About
 
