@@ -40,6 +40,16 @@ flower_center_colors = [
     #FF69B4   // Hot Pink
 ];
 
+unlocked_center_colors = [
+    #FFD700,
+    #FF69B4
+];
+
+locked_center_colors = [
+    #D7D7D7,  // Grayscale for Gold
+    #989898   // Grayscale for Hot Pink
+];
+
 inner_petal_colors = [
 	#F393EA,  // Bubblegum Bliss
 	#EF00A5   // Neon Fuchsia

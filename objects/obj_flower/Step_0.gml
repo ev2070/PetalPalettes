@@ -15,11 +15,14 @@ if (instance_number(obj_info) == 1) {
 			locked = !locked;
 			
 			// Add its color info to info object, if locked
+			// Update the flower center to be grayscale
 			if (locked) {
 				set_flower_palette(inner_petal_colors,
 									outer_petal_colors, type-1);
+				flower_center_colors = locked_center_colors;
 				
 			// Else, clear its color info from info object
+			// Update the flower center to be colorful
 			} else {
 				obj_info.flower_palettes[type-1] = [[],[],[],[]];
 				
@@ -29,6 +32,8 @@ if (instance_number(obj_info) == 1) {
 					obj_info.type = "color instructions";
 					obj_info.info = obj_manager.color_instrs;
 				}
+				
+				flower_center_colors = unlocked_center_colors;
 			}
 		}
 	}
