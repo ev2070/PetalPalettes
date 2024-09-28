@@ -1,8 +1,9 @@
 // obj_manager Create
 
-// Set window size and position; Hide mouse cursor
+// Set window settings; Hide mouse cursor
 window_set_size(window_get_width()*0.8, window_get_height()*0.9);
 window_set_position(0, window_get_height()*0.05);
+window_set_caption("Petal Palettes");
 window_set_cursor(cr_none);
 
 // Info on instructions
