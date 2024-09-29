@@ -12,7 +12,7 @@ Check out this YouTube [demo](https://youtu.be/4BTWvUylnRo) video to see **Petal
 
 - Welcome to **PETAL PALETTES**!
 - Move your mouse to **CREATE** beautiful color palettes!
-- Press 1, 2, 3, 4, or 5 to **LOCK** a flower's palette.
+- Press `1`, `2`, `3`, `4`, or `5` to **LOCK** a flower's palette.
 - Click outside the lake to get **STARTED**!
 
 After locking a flower, **CLICK** on it to see its color details (RGB values and hex codes)!
@@ -55,7 +55,7 @@ Enjoy your journey through color and let your creativity bloom!
 
 ## Credits
 
-- `fnt_oshigo`: _推しゴ_ by アトリエこたつ. Available at [this](https://booth.pm/ja/items/5635169) link.
+- `fnt_oshigo`: _推しゴ_ designed by アトリエこたつ. Available at [this](https://booth.pm/ja/items/5635169) link.
 
 ## Contact
 
