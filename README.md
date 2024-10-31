@@ -57,6 +57,14 @@ Enjoy your journey through color and let your creativity bloom!
 
 - `fnt_oshigo`: _推しゴ_ designed by アトリエこたつ. Available at [this](https://booth.pm/ja/items/5635169) link.
 
+# Usage
+
+While I appreciate interest in my project, please note the following:
+
+- **Attribution**: If you do use any assets or code from this project that are credited to others, please ensure you follow the respective licenses and provide proper attribution.
+
+- **Commercial Use**: This project and its original assets cannot be used for commercial purposes without my written consent.
+
 ## Contact
 
 I’d love to hear from you! If you have any questions, feedback, or suggestions about **Petal Palettes**, feel free to reach out.

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"original-oshigo-readme",
+  "name":"original-oshigo-readme",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

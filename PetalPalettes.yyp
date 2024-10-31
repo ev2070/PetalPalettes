@@ -35,6 +35,8 @@
   "name":"PetalPalettes",
   "resources":[
     {"id":{"name":"fnt_oshigo","path":"fonts/fnt_oshigo/fnt_oshigo.yy",},},
+    {"id":{"name":"google-translated-oshigo-readme","path":"notes/google-translated-oshigo-readme/google-translated-oshigo-readme.yy",},},
+    {"id":{"name":"original-oshigo-readme","path":"notes/original-oshigo-readme/original-oshigo-readme.yy",},},
     {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
     {"id":{"name":"obj_custom_mouse","path":"objects/obj_custom_mouse/obj_custom_mouse.yy",},},
     {"id":{"name":"obj_flower_old","path":"objects/obj_flower_old/obj_flower_old.yy",},},

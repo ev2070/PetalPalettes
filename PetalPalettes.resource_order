@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"google-translated-oshigo-readme","order":1,"path":"notes/google-translated-oshigo-readme/google-translated-oshigo-readme.yy",},
     {"name":"obj_background","order":1,"path":"objects/obj_background/obj_background.yy",},
     {"name":"obj_custom_mouse","order":6,"path":"objects/obj_custom_mouse/obj_custom_mouse.yy",},
     {"name":"obj_flower","order":2,"path":"objects/obj_flower/obj_flower.yy",},
