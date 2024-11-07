@@ -57,7 +57,7 @@ Enjoy your journey through color and let your creativity bloom!
 
 - `fnt_oshigo`: _推しゴ_ designed by アトリエこたつ. Available at [this](https://booth.pm/ja/items/5635169) link.
 
-# Usage
+## Usage
 
 While I appreciate interest in my project, please note the following:
 
